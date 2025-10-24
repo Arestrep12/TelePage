@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Dependencies / builds
+vendor/
+node_modules/
+.dist/
+dist/
+.cache/
+
+# Logs
+*.log
+
+# Project-specific
+WARP.md
